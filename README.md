@@ -1,18 +1,6 @@
-# Repository structure.
-
-## Note about this part
-
-**This part should not be into the newly created repository.**
-
-## About this repository
-
-This is an example repository which represent the way [all other repository which use Travis CI](https://travis-ci.org/Ultimate-Hosts-Blacklist) should be structured.
-
---------------------------------------------------------------------------------
-
 # About [repositoryname]
 
-[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/repository-structure.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/repository-structure)
+[![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Spam.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Spam)
 
 [Description]
 
