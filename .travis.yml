@@ -1,0 +1,30 @@
+env:
+  global:
+  - secure: Ylg++Fa7IYLyDpQjndqiESEEr2xbM0EETPsMk2R5sBYVveMDqxQ5HnoPRT5V6FfGzU+XMeNYZwljwmVZH4M5eFyPBdTG8Dp+/Zlydm4f1AitksQ19aAV+V24cLTk8Jk1vpMLkvNJ5kSqE8PPRZLC+dGb34GhijDMujimAphyeMtRBtcLJkj75P/CSzMk05RcpVYfOYXCu0hFgilsVr/xlXklFK2QkLLA1+C0coW25BAezTm4DUKuLCq98D7l7Thh4ozqO4fU/F3jak06bsEaDogWdKSw29/GGnurtEulj17fgVZGYf0DvJIYj/ccvvqxbEoOnBP0tbLPdDhBCqdi5MdVm3Icuyx/h1wWCsK9voeTAt09wdV1ymOlxnU2/rH681ZhEY5EEkG4jJmZsrVJKGD/B3UlaBmFImABpwhf83FWa0+7/pVYDEH77B3Pymbo7ypCPqcgXzoiKEcEXX7pEPTqU8N4ks55+sLvTJtW0xiiNNjm5LPx02Yl01f/nB6cFIQFAyXJimRbYZh4McXb1ErLhei/tF++PwBd6Z/NJ/ag0mEpSyUdNyhIpy9GjgKs6cR9zXEOL2EpELDCfn/Og15RkDKzW+PMiA8PYtxciu05PlWNllVkcmOX462LoSjYIfKrzXdlixmqzhZ38nBDfq/iG6USDWfm84JyByP8usc=
+  - GIT_NAME: Travis CI
+  - GIT_EMAIL: mitchellkrog@gmail.com
+  - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/Add_Spam
+  - GIT_BRANCH: master
+language: python
+python:
+- '3.6'
+matrix:
+  fast_finish: true
+cache:
+- apt
+- pip
+sudo: required
+before_install:
+- sudo apt-get -y install python3-pip
+- sudo apt-get -y install dos2unix
+- pip3 install colorama
+script:
+- export TRAVIS_BUILD_DIR=${TRAVIS_BUILD_DIR}
+- export GH_TOKEN=${GH_TOKEN}
+- export TRAVIS_REPO_SLUG=${TRAVIS_REPO_SLUG}
+- export GIT_BRANCH=${GIT_BRANCH}
+- export GIT_EMAIL=${GIT_EMAIL}
+- export GIT_NAME=${GIT_NAME}
+- python3 ./update.py
+notifications:
+  email: false
