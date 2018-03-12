@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Spam/domains.list": {
-        "1520762816": [
-            "amoxicillin-amoxil-buy.com",
+        "1520893653": [
             "buylasix-online.net",
             "ebaychristmas.com",
             "generic-onlinenexium.net",
@@ -9,6 +8,9 @@
             "online-buyprednisone.com",
             "vp5.sudohost.com.br",
             "www.thedatingconference.com"
+        ],
+        "to_test": [
+            "amoxicillin-amoxil-buy.com"
         ]
     }
 }
