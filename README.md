@@ -1,8 +1,10 @@
-# About [repositoryname]
+# About Add_Spam
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Spam.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/Add_Spam)
 
-[Description]
+```
+Spam sites based on http://www.hostsfile.org/hosts.html content.
+```
 
 --------------------------------------------------------------------------------
 
