@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Spam/domains.list": {
-        "number_of_down": 8,
-        "number_of_invalid": 0,
-        "number_of_tested": 101,
-        "number_of_up": 93
+        "down": 6,
+        "invalid": 0,
+        "tested": 101,
+        "up": 95
     }
 }
