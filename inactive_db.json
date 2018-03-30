@@ -1,13 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Spam/domains.list": {
-        "1522277174": [
-            "buylasix-online.net",
+        "1522418763": [
             "ebaychristmas.com",
             "generic-onlinenexium.net",
             "genericnexium40mg.net",
             "vp5.sudohost.com.br",
+            "www.creditauthpagev3.info",
             "www.thedatingconference.com"
         ],
-        "to_test": []
+        "to_test": [
+            "buylasix-online.net"
+        ]
     }
 }
