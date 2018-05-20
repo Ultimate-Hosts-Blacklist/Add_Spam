@@ -1,11 +1,12 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Spam/domains.list": {
-        "1526551458": [
+        "1526811238": [
             "ebaychristmas.com",
             "vp5.sudohost.com.br",
-            "www.redhotfreebies.co.uk",
-            "buylasix-online.net"
+            "www.redhotfreebies.co.uk"
         ],
-        "to_test": []
+        "to_test": [
+            "buylasix-online.net"
+        ]
     }
 }
