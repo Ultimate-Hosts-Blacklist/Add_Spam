@@ -1,12 +1,11 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/Add_Spam/domains.list": {
-        "1532255730": [
+        "1532527804": [
             "buylasix-online.net",
             "ebaychristmas.com",
             "email.otherinbox.com",
             "vp5.sudohost.com.br",
-            "www.beaverday.biz",
-            "www.redhotfreebies.co.uk"
+            "www.beaverday.biz"
         ],
         "to_test": [
             "beaverday.biz"
