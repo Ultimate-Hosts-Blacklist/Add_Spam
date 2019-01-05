@@ -8,5 +8,5 @@
     "list_name": "domains.list",
     "name": "Domain Status Testing for Ultimate Hosts Blacklist",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "stable": "0"
+    "stable": "1"
 }
