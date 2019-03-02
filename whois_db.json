@@ -105,6 +105,11 @@
             "expiration_date": "11-jan-2020",
             "state": "future"
         },
+        "oz-offers.com": {
+            "epoch": "1552694400",
+            "expiration_date": "16-mar-2019",
+            "state": "future"
+        },
         "playlott.com": {
             "epoch": "1569715200",
             "expiration_date": "29-sep-2019",
@@ -138,6 +143,11 @@
         "tinaborg.com": {
             "epoch": "1575936000",
             "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "tkdami.net": {
+            "epoch": "1570665600",
+            "expiration_date": "10-oct-2019",
             "state": "future"
         },
         "unionleisurewear.com": {
