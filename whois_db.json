@@ -100,7 +100,7 @@
         "state": "future"
     },
     "otherinbox.com": {
-        "epoch": "1578700800",
+        "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
