@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "tested": 68,
-            "up": 68
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sat Oct  5 15:58:19 2019",
-    "end_epoch": 1570291099.743667,
+    "end_datetime": "Sun Oct  6 03:44:14 2019",
+    "end_epoch": 1570333454.853399,
     "last_autosave_datetime": "Sun Oct  6 00:48:36 2019",
     "last_autosave_epoch": 1570322916.577485,
     "name": "Add_Spam",
