@@ -4,6 +4,11 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "arklighting.co": {
+        "epoch": 1596585600,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "brandedleadgeneration.com": {
         "epoch": 1592092800,
         "expiration_date": "14-jun-2020",
@@ -24,9 +29,29 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "gtradersoft.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "heartrevitalized.com": {
+        "epoch": 1576368000,
+        "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "medtecchina.com": {
+        "epoch": 1589932800,
+        "expiration_date": "20-may-2020",
+        "state": "future"
+    },
     "motoren.ru": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "novastarled.com": {
+        "epoch": 1659398400,
+        "expiration_date": "02-aug-2022",
         "state": "future"
     },
     "onlineloan-personal.net": {
@@ -39,14 +64,29 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "oz-offers.com": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "playlott.com": {
         "epoch": 1727568000,
         "expiration_date": "29-sep-2024",
         "state": "future"
     },
+    "tinaborg.com": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
     "unionleisurewear.com": {
         "epoch": 1579478400,
         "expiration_date": "20-jan-2020",
+        "state": "future"
+    },
+    "vntanktransport.com": {
+        "epoch": 1583366400,
+        "expiration_date": "05-mar-2020",
         "state": "future"
     }
 }
