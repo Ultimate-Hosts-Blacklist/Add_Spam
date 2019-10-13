@@ -29,6 +29,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "go2jump.org": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "gtradersoft.com": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
@@ -37,6 +42,11 @@
     "heartrevitalized.com": {
         "epoch": 1576368000,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "janeaustenjoy.com": {
+        "epoch": 1584921600,
+        "expiration_date": "23-mar-2020",
         "state": "future"
     },
     "medtecchina.com": {
@@ -74,9 +84,29 @@
         "expiration_date": "29-sep-2024",
         "state": "future"
     },
+    "profitsitesbiz.com": {
+        "epoch": 1585353600,
+        "expiration_date": "28-mar-2020",
+        "state": "future"
+    },
+    "securesignupoffers.org": {
+        "epoch": 1596672000,
+        "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "stsoftware.biz": {
+        "epoch": 1614384000,
+        "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
     "tinaborg.com": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "tkdami.net": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "unionleisurewear.com": {
@@ -87,6 +117,11 @@
     "vntanktransport.com": {
         "epoch": 1583366400,
         "expiration_date": "05-mar-2020",
+        "state": "future"
+    },
+    "vydoxtrial.com": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     }
 }
