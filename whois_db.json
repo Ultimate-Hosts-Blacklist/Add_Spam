@@ -4,6 +4,11 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "addshoppers.com": {
+        "epoch": 1655856000,
+        "expiration_date": "22-jun-2022",
+        "state": "future"
+    },
     "arklighting.co": {
         "epoch": 1596585600,
         "expiration_date": "05-aug-2020",
