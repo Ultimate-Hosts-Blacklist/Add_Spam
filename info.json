@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 7,
-            "invalid": 0,
-            "tested": 75,
-            "up": 68
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Mon Oct 14 00:21:43 2019",
-    "end_epoch": 1571012503.234024,
+    "end_datetime": "Tue Oct 15 00:01:42 2019",
+    "end_epoch": 1571097702.89451,
     "last_autosave_datetime": "Mon Oct 14 23:06:46 2019",
     "last_autosave_epoch": 1571094406.854655,
     "name": "Add_Spam",
@@ -19,12 +10,12 @@
         "builds": 2,
         "clean.list": 68,
         "counter": {
-            "down": 8,
+            "down": 9,
             "invalid": 0,
-            "tested": 76,
+            "tested": 77,
             "up": 68
         },
-        "domains.list": 76,
+        "domains.list": 77,
         "volatile.list": 68,
         "whitelisted.list": 68
     },
