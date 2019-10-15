@@ -24,6 +24,11 @@
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
+    "defenderxtactical.com": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
     "divisioncore.com": {
         "epoch": 1777939200,
         "expiration_date": "05-may-2026",
