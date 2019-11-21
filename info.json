@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Nov 20 15:25:55 2019",
-    "end_epoch": 1574263555.937197,
+    "end_datetime": "Thu Nov 21 10:10:50 2019",
+    "end_epoch": 1574331050.80404,
     "last_autosave_datetime": "Thu Oct 17 11:03:11 2019",
     "last_autosave_epoch": 1571310191.884291,
     "name": "Add_Spam",
@@ -10,16 +10,16 @@
         "builds": 1,
         "clean.list": 69,
         "counter": {
-            "down": 8,
+            "down": 7,
             "invalid": 0,
-            "tested": 77,
+            "tested": 76,
             "up": 69
         },
-        "domains.list": 77,
+        "domains.list": 76,
         "volatile.list": 69,
         "whitelisted.list": 69
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "start_datetime": "Wed Nov 20 15:24:55 2019",
-    "start_epoch": 1574263495.268652
+    "start_datetime": "Thu Nov 21 10:10:05 2019",
+    "start_epoch": 1574331005.094543
 }
