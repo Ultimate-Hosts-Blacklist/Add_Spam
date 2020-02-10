@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Sun Feb  9 22:48:30 2020",
-    "end_epoch": 1581288510.999651,
+    "end_datetime": "Mon Feb 10 22:48:07 2020",
+    "end_epoch": 1581374887.899474,
     "last_autosave_datetime": "Thu Oct 17 11:03:11 2019",
     "last_autosave_epoch": 1571310191.884291,
     "name": "Add_Spam",
@@ -20,6 +20,6 @@
         "whitelisted.list": 70
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "start_datetime": "Sun Feb  9 22:47:11 2020",
-    "start_epoch": 1581288431.329312
+    "start_datetime": "Mon Feb 10 22:46:49 2020",
+    "start_epoch": 1581374809.530644
 }
