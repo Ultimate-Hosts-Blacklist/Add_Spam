@@ -3,71 +3,71 @@
         "creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1592437555.570328,
-            "last_retested_at_iso": "2020-06-17T23:45:55.570328",
+            "last_retested_at_epoch": 1592588826.244522,
+            "last_retested_at_iso": "2020-06-19T17:47:06.244522",
             "status": "INACTIVE"
         },
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1592437612.97588,
-            "last_retested_at_iso": "2020-06-17T23:46:52.975880",
+            "last_retested_at_epoch": 1592588814.080694,
+            "last_retested_at_iso": "2020-06-19T17:46:54.080694",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1592437608.332663,
-            "last_retested_at_iso": "2020-06-17T23:46:48.332663",
+            "last_retested_at_epoch": 1592588808.532105,
+            "last_retested_at_iso": "2020-06-19T17:46:48.532105",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
             "included_at_epoch": 1588440280.0,
             "included_at_iso": "2020-05-02T17:24:40",
-            "last_retested_at_epoch": 1592437562.784407,
-            "last_retested_at_iso": "2020-06-17T23:46:02.784407",
+            "last_retested_at_epoch": 1592588768.998477,
+            "last_retested_at_iso": "2020-06-19T17:46:08.998477",
             "status": "INACTIVE"
         },
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1592437555.6562,
-            "last_retested_at_iso": "2020-06-17T23:45:55.656200",
+            "last_retested_at_epoch": 1592588826.088556,
+            "last_retested_at_iso": "2020-06-19T17:47:06.088556",
             "status": "INACTIVE"
         },
         "www.defenderxtactical.com": {
             "included_at_epoch": 1591207250.816505,
             "included_at_iso": "2020-06-03T18:00:50.816505",
-            "last_retested_at_epoch": 1592437571.43487,
-            "last_retested_at_iso": "2020-06-17T23:46:11.434870",
+            "last_retested_at_epoch": 1592588796.263506,
+            "last_retested_at_iso": "2020-06-19T17:46:36.263506",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1588440241.0,
             "included_at_iso": "2020-05-02T17:24:01",
-            "last_retested_at_epoch": 1592437607.160775,
-            "last_retested_at_iso": "2020-06-17T23:46:47.160775",
+            "last_retested_at_epoch": 1592588795.736364,
+            "last_retested_at_iso": "2020-06-19T17:46:35.736364",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1588440267.0,
             "included_at_iso": "2020-05-02T17:24:27",
-            "last_retested_at_epoch": 1592437566.85969,
-            "last_retested_at_iso": "2020-06-17T23:46:06.859690",
+            "last_retested_at_epoch": 1592588793.054587,
+            "last_retested_at_iso": "2020-06-19T17:46:33.054587",
             "status": "INACTIVE"
         },
         "www.redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1592437612.97488,
-            "last_retested_at_iso": "2020-06-17T23:46:52.974880",
+            "last_retested_at_epoch": 1592588813.843476,
+            "last_retested_at_iso": "2020-06-19T17:46:53.843476",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1592437608.331682,
-            "last_retested_at_iso": "2020-06-17T23:46:48.331682",
+            "last_retested_at_epoch": 1592588808.43252,
+            "last_retested_at_iso": "2020-06-19T17:46:48.432520",
             "status": "INACTIVE"
         }
     }
