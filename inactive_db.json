@@ -3,22 +3,22 @@
         "creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1596911466.090316,
-            "last_retested_at_iso": "2020-08-08T18:31:06.090316",
+            "last_retested_at_epoch": 1597083940.575321,
+            "last_retested_at_iso": "2020-08-10T18:25:40.575321",
             "status": "INACTIVE"
         },
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1596911500.30876,
-            "last_retested_at_iso": "2020-08-08T18:31:40.308760",
+            "last_retested_at_epoch": 1597083972.936536,
+            "last_retested_at_iso": "2020-08-10T18:26:12.936536",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1596911479.095688,
-            "last_retested_at_iso": "2020-08-08T18:31:19.095688",
+            "last_retested_at_epoch": 1597083936.664013,
+            "last_retested_at_iso": "2020-08-10T18:25:36.664013",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
@@ -31,29 +31,29 @@
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1596911465.862865,
-            "last_retested_at_iso": "2020-08-08T18:31:05.862865",
+            "last_retested_at_epoch": 1597083940.562756,
+            "last_retested_at_iso": "2020-08-10T18:25:40.562756",
             "status": "INACTIVE"
         },
         "www.defenderxtactical.com": {
             "included_at_epoch": 1591207250.816505,
             "included_at_iso": "2020-06-03T18:00:50.816505",
-            "last_retested_at_epoch": 1596911500.564155,
-            "last_retested_at_iso": "2020-08-08T18:31:40.564155",
+            "last_retested_at_epoch": 1597083936.187522,
+            "last_retested_at_iso": "2020-08-10T18:25:36.187522",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1588440241.0,
             "included_at_iso": "2020-05-02T17:24:01",
-            "last_retested_at_epoch": 1596911498.740271,
-            "last_retested_at_iso": "2020-08-08T18:31:38.740271",
+            "last_retested_at_epoch": 1597083934.93658,
+            "last_retested_at_iso": "2020-08-10T18:25:34.936580",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1588440267.0,
             "included_at_iso": "2020-05-02T17:24:27",
-            "last_retested_at_epoch": 1596911476.611059,
-            "last_retested_at_iso": "2020-08-08T18:31:16.611059",
+            "last_retested_at_epoch": 1597083935.481357,
+            "last_retested_at_iso": "2020-08-10T18:25:35.481357",
             "status": "INACTIVE"
         },
         "www.playlott.com": {
@@ -66,22 +66,22 @@
         "www.redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1596911500.164959,
-            "last_retested_at_iso": "2020-08-08T18:31:40.164959",
+            "last_retested_at_epoch": 1597083972.785713,
+            "last_retested_at_iso": "2020-08-10T18:26:12.785713",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1596911478.997561,
-            "last_retested_at_iso": "2020-08-08T18:31:18.997561",
+            "last_retested_at_epoch": 1597083936.753512,
+            "last_retested_at_iso": "2020-08-10T18:25:36.753512",
             "status": "INACTIVE"
         },
         "www.vydoxtrial.com": {
             "included_at_epoch": 1594404765.524214,
             "included_at_iso": "2020-07-10T18:12:45.524214",
-            "last_retested_at_epoch": 1596911494.577664,
-            "last_retested_at_iso": "2020-08-08T18:31:34.577664",
+            "last_retested_at_epoch": 1597083944.821221,
+            "last_retested_at_iso": "2020-08-10T18:25:44.821221",
             "status": "INACTIVE"
         }
     }
