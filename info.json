@@ -10,7 +10,7 @@
     "name": "Add_Spam",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 67,
+        "clean_list": 68,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -21,10 +21,10 @@
             "valid": 0
         },
         "domains.list": 73,
-        "volatile.list": 67,
-        "whitelisted.list": 67
+        "volatile.list": 68,
+        "whitelisted.list": 68
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "start_datetime": "2020-08-16T18:17:33.040094",
-    "start_epoch": 1597601853.040094
+    "start_datetime": "2020-08-18T18:55:12.169997",
+    "start_epoch": 1597776912.169997
 }
