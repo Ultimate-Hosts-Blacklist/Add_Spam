@@ -3,22 +3,22 @@
         "creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1598121999.084279,
-            "last_retested_at_iso": "2020-08-22T18:46:39.084279",
+            "last_retested_at_epoch": 1598294981.455213,
+            "last_retested_at_iso": "2020-08-24T18:49:41.455213",
             "status": "INACTIVE"
         },
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1598121974.553403,
-            "last_retested_at_iso": "2020-08-22T18:46:14.553403",
+            "last_retested_at_epoch": 1598294960.67249,
+            "last_retested_at_iso": "2020-08-24T18:49:20.672490",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1598121984.506945,
-            "last_retested_at_iso": "2020-08-22T18:46:24.506945",
+            "last_retested_at_epoch": 1598294991.038365,
+            "last_retested_at_iso": "2020-08-24T18:49:51.038365",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
@@ -31,29 +31,29 @@
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1598121999.15874,
-            "last_retested_at_iso": "2020-08-22T18:46:39.158740",
+            "last_retested_at_epoch": 1598294981.304032,
+            "last_retested_at_iso": "2020-08-24T18:49:41.304032",
             "status": "INACTIVE"
         },
         "www.defenderxtactical.com": {
             "included_at_epoch": 1591207250.816505,
             "included_at_iso": "2020-06-03T18:00:50.816505",
-            "last_retested_at_epoch": 1598122011.488269,
-            "last_retested_at_iso": "2020-08-22T18:46:51.488269",
+            "last_retested_at_epoch": 1598294964.342998,
+            "last_retested_at_iso": "2020-08-24T18:49:24.342998",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1588440241.0,
             "included_at_iso": "2020-05-02T17:24:01",
-            "last_retested_at_epoch": 1598121982.224,
-            "last_retested_at_iso": "2020-08-22T18:46:22.224000",
+            "last_retested_at_epoch": 1598294962.886366,
+            "last_retested_at_iso": "2020-08-24T18:49:22.886366",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1588440267.0,
             "included_at_iso": "2020-05-02T17:24:27",
-            "last_retested_at_epoch": 1598121974.035996,
-            "last_retested_at_iso": "2020-08-22T18:46:14.035996",
+            "last_retested_at_epoch": 1598294967.248463,
+            "last_retested_at_iso": "2020-08-24T18:49:27.248463",
             "status": "INACTIVE"
         },
         "www.playlott.com": {
@@ -66,15 +66,15 @@
         "www.redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1598121974.386177,
-            "last_retested_at_iso": "2020-08-22T18:46:14.386177",
+            "last_retested_at_epoch": 1598294960.505666,
+            "last_retested_at_iso": "2020-08-24T18:49:20.505666",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1598121984.571412,
-            "last_retested_at_iso": "2020-08-22T18:46:24.571412",
+            "last_retested_at_epoch": 1598294990.908174,
+            "last_retested_at_iso": "2020-08-24T18:49:50.908174",
             "status": "INACTIVE"
         },
         "www.vydoxtrial.com": {
