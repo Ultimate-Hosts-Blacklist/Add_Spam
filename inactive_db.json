@@ -3,22 +3,22 @@
         "creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1598640390.078027,
-            "last_retested_at_iso": "2020-08-28T18:46:30.078027",
+            "last_retested_at_epoch": 1598812303.992047,
+            "last_retested_at_iso": "2020-08-30T18:31:43.992047",
             "status": "INACTIVE"
         },
         "redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1598640400.255295,
-            "last_retested_at_iso": "2020-08-28T18:46:40.255295",
+            "last_retested_at_epoch": 1598812341.517395,
+            "last_retested_at_iso": "2020-08-30T18:32:21.517395",
             "status": "INACTIVE"
         },
         "thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1598640383.121499,
-            "last_retested_at_iso": "2020-08-28T18:46:23.121499",
+            "last_retested_at_epoch": 1598812298.553524,
+            "last_retested_at_iso": "2020-08-30T18:31:38.553524",
             "status": "INACTIVE"
         },
         "www.clicktshirtprinting.co.uk": {
@@ -31,29 +31,29 @@
         "www.creditauthpagev3.info": {
             "included_at_epoch": 1588440293.0,
             "included_at_iso": "2020-05-02T17:24:53",
-            "last_retested_at_epoch": 1598640390.263286,
-            "last_retested_at_iso": "2020-08-28T18:46:30.263286",
+            "last_retested_at_epoch": 1598812303.836537,
+            "last_retested_at_iso": "2020-08-30T18:31:43.836537",
             "status": "INACTIVE"
         },
         "www.defenderxtactical.com": {
             "included_at_epoch": 1591207250.816505,
             "included_at_iso": "2020-06-03T18:00:50.816505",
-            "last_retested_at_epoch": 1598640357.513943,
-            "last_retested_at_iso": "2020-08-28T18:45:57.513943",
+            "last_retested_at_epoch": 1598812312.148323,
+            "last_retested_at_iso": "2020-08-30T18:31:52.148323",
             "status": "INACTIVE"
         },
         "www.fitnesshealthreporter.com": {
             "included_at_epoch": 1588440241.0,
             "included_at_iso": "2020-05-02T17:24:01",
-            "last_retested_at_epoch": 1598640368.014096,
-            "last_retested_at_iso": "2020-08-28T18:46:08.014096",
+            "last_retested_at_epoch": 1598812320.576764,
+            "last_retested_at_iso": "2020-08-30T18:32:00.576764",
             "status": "INACTIVE"
         },
         "www.otherinbox.com": {
             "included_at_epoch": 1588440267.0,
             "included_at_iso": "2020-05-02T17:24:27",
-            "last_retested_at_epoch": 1598640389.199482,
-            "last_retested_at_iso": "2020-08-28T18:46:29.199482",
+            "last_retested_at_epoch": 1598812303.515776,
+            "last_retested_at_iso": "2020-08-30T18:31:43.515776",
             "status": "INACTIVE"
         },
         "www.playlott.com": {
@@ -66,15 +66,15 @@
         "www.redhotfreebies.co.uk": {
             "included_at_epoch": 1588440239.0,
             "included_at_iso": "2020-05-02T17:23:59",
-            "last_retested_at_epoch": 1598640400.072546,
-            "last_retested_at_iso": "2020-08-28T18:46:40.072546",
+            "last_retested_at_epoch": 1598812341.396152,
+            "last_retested_at_iso": "2020-08-30T18:32:21.396152",
             "status": "INACTIVE"
         },
         "www.thedatingconference.com": {
             "included_at_epoch": 1588440268.0,
             "included_at_iso": "2020-05-02T17:24:28",
-            "last_retested_at_epoch": 1598640383.076924,
-            "last_retested_at_iso": "2020-08-28T18:46:23.076924",
+            "last_retested_at_epoch": 1598812298.568857,
+            "last_retested_at_iso": "2020-08-30T18:31:38.568857",
             "status": "INACTIVE"
         },
         "www.vydoxtrial.com": {
