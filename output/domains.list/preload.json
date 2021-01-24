@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "ae5d7f33e16df1395700de774f482a054595de71f7569b17bfc03726",
+    "line_number": 152,
+    "output_dir": "/home/runner/work/Add_Spam/Add_Spam/output/domains.list",
+    "previous_hash": "ae5d7f33e16df1395700de774f482a054595de71f7569b17bfc03726",
+    "rel_source": "domains.list",
+    "session_id": "8039ba91fa2d2554192e51fa",
+    "source": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
+    "subject": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
