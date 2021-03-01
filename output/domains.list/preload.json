@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
     "checker_type": "AVAILABILITY",
     "destination": "domains.list",
-    "hash": "d80f3b4f6170df15281ff4db7636cbb988a7ddf4a24ce4e2a45daa15",
+    "hash": "77b97f3b6183d3f5a70f476c3922e08a8c4899d3d7865e1486532aa0",
     "line_number": 152,
-    "output_dir": "/home/runner/work/Add_Spam/Add_Spam/output/domains.list",
-    "previous_hash": "d80f3b4f6170df15281ff4db7636cbb988a7ddf4a24ce4e2a45daa15",
-    "rel_source": "domains.list",
-    "session_id": "b798773a8fa1b8f54911f391",
-    "source": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
-    "subject": "/home/runner/work/Add_Spam/Add_Spam/domains.list",
+    "output_dir": "/var/lib/jenkins/workspace/_hosts-blacklist_Add_Spam_master/output/domains.list",
+    "previous_hash": "77b97f3b6183d3f5a70f476c3922e08a8c4899d3d7865e1486532aa0",
+    "session_id": "5a0971cb9e198aa1720fc9c7",
+    "source": "domains.list",
+    "subject": "domains.list",
     "subject_type": "domain",
     "type": "file"
 }
