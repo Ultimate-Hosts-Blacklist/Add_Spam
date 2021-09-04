@@ -988,6 +988,7 @@
         "clicketcloud.com",
         "cloudcontrolapp.com",
         "cloudcontrolled.com",
+        "cloudns.us",
         "cn.com",
         "cns.joyent.com",
         "co.com",
@@ -4851,7 +4852,6 @@
         "mcdir.me",
         "mcpe.me",
         "myds.me",
-        "nctu.me",
         "net.me",
         "nohost.me",
         "noip.me",
@@ -7513,7 +7513,8 @@
         "development.run",
         "hs.run",
         "ravendb.run",
-        "repl.run"
+        "repl.run",
+        "servers.run"
     ],
     "rw": [
         "ac.rw",
@@ -8207,7 +8208,6 @@
         "cc.wv.us",
         "cc.wy.us",
         "chtr.k12.ma.us",
-        "cloudns.us",
         "co.us",
         "cog.mi.us",
         "ct.us",
