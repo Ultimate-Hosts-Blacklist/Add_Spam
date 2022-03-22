@@ -1,19 +1,19 @@
 {
     "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2022-03-22T06:41:56.824835",
-    "end_epoch": 1647931316.824835,
+    "end_datetime": "2022-03-22T09:46:34.353692",
+    "end_epoch": 1647942394.353692,
     "issue_link": "https://github.com/FadeMind/hosts.extras/issues/new",
     "link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
     "name": "Add_Spam",
-    "previous_end_datetime": "2022-03-21T06:45:27.126884",
-    "previous_end_epoch": 1647845127.126884,
-    "previous_start_datetime": "2022-03-21T06:43:37.363759",
-    "previous_start_epoch": 1647845017.363759,
+    "previous_end_datetime": "2022-03-22T06:41:56.824835",
+    "previous_end_epoch": 1647931316.824835,
+    "previous_start_datetime": "2022-03-22T06:39:46.769615",
+    "previous_start_epoch": 1647931186.769615,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
-    "start_datetime": "2022-03-22T06:39:46.769615",
-    "start_epoch": 1647931186.769615
+    "start_datetime": "2022-03-22T09:44:40.631746",
+    "start_epoch": 1647942280.631746
 }
