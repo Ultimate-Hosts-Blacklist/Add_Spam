@@ -4973,6 +4973,9 @@
         "org.ma",
         "press.ma"
     ],
+    "management": [
+        "router.management"
+    ],
     "marketing": [
         "from.marketing",
         "with.marketing"
@@ -6480,6 +6483,7 @@
         "oppdal.no",
         "oppegard.no",
         "oppegård.no",
+        "org.st",
         "orkanger.no",
         "orkdal.no",
         "orland.no",
@@ -6961,7 +6965,6 @@
         "enterprisecloud.nu",
         "merseine.nu",
         "mine.nu",
-        "router.management",
         "shacknet.nu"
     ],
     "nz": [
@@ -7912,7 +7915,6 @@
         "mil.st",
         "net.st",
         "noho.st",
-        "org.st",
         "principe.st",
         "saotome.st",
         "store.st"
