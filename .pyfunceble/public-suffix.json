@@ -1961,8 +1961,7 @@
         "ind.gt",
         "mil.gt",
         "net.gt",
-        "org.gt",
-        "to.gt"
+        "org.gt"
     ],
     "gu": [
         "com.gu",
@@ -5039,6 +5038,7 @@
         "synology.me",
         "tbits.me",
         "tcp4.me",
+        "to.gt",
         "vp4.me",
         "webhop.me",
         "wedeploy.me",
