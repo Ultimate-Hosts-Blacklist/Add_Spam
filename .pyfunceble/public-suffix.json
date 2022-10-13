@@ -1643,7 +1643,6 @@
         "lebtimnetz.de",
         "leitungsen.de",
         "lima-city.de",
-        "logoip.de",
         "mein-iserv.de",
         "mein-vigor.de",
         "my-gateway.de",
@@ -1879,7 +1878,8 @@
         "edu.fm",
         "net.fm",
         "org.fm",
-        "radio.fm"
+        "radio.fm",
+        "user.fm"
     ],
     "fr": [
         "aeroport.fr",
@@ -5963,6 +5963,7 @@
         "kinghost.net",
         "knx-server.net",
         "krellian.net",
+        "logoip.de",
         "lon-1.paas.massivegrid.net",
         "lon-2.paas.massivegrid.net",
         "map.fastly.net",
