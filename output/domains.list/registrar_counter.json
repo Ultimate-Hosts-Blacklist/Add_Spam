@@ -1,0 +1,18 @@
+{
+    "counter": {
+        "Cloudflare, Inc.": 2,
+        "Domainbox Limited": 2,
+        "GoDaddy.com, LLC": 2,
+        "NameCheap, Inc.": 2,
+        "RU-CENTER-RU": 2,
+        "total": 10
+    },
+    "percentage": {
+        "Cloudflare, Inc.": 20.0,
+        "Domainbox Limited": 20.0,
+        "GoDaddy.com, LLC": 20.0,
+        "NameCheap, Inc.": 20.0,
+        "RU-CENTER-RU": 20.0,
+        "total": 100.0
+    }
+}
