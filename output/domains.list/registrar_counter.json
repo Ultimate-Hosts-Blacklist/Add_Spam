@@ -2,17 +2,15 @@
     "counter": {
         "AXELNAME-RU": 2,
         "Cloudflare, Inc.": 2,
-        "Domainbox Limited": 2,
         "GoDaddy.com, LLC": 2,
         "NameCheap, Inc.": 2,
-        "total": 10
+        "total": 8
     },
     "percentage": {
-        "AXELNAME-RU": 20.0,
-        "Cloudflare, Inc.": 20.0,
-        "Domainbox Limited": 20.0,
-        "GoDaddy.com, LLC": 20.0,
-        "NameCheap, Inc.": 20.0,
+        "AXELNAME-RU": 25.0,
+        "Cloudflare, Inc.": 25.0,
+        "GoDaddy.com, LLC": 25.0,
+        "NameCheap, Inc.": 25.0,
         "total": 100.0
     }
 }
